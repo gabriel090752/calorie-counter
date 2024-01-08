@@ -2,6 +2,8 @@ body{
     background-image: url(imgs/amirali-mirhashemian-sc5sTPMrVfk-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .form{
@@ -11,7 +13,7 @@ body{
 }
 .form form{
     position: relative;
-    top: 10rem;
+    top: 20rem;
     height: 5rem;
 }
 .form input{
