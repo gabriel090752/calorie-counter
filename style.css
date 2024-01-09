@@ -20,3 +20,17 @@ body{
     width: 50rem;
     height: 2.5rem;
 }
+#food{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+}
+
+#imgFood{
+    width: 20%;
+}
+#recipeName {
+    font-family: Poppins,Arial,sans-serif;
+    color: white;
+    font-size: 2rem;
+}
